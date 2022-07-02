@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Order App</string>
+    <string name="signup">Kayıt Ol</string>
+    <string name="password">Şifre</string>
+    <string name="name">Ad</string>
+    <string name="surname">Soyad</string>
+    <string name="email">Email</string>
+    <string name="kvkk_readed">KVKK Aydınlatma Metnini Okudum, Kabul Ediyorum.</string>
+    <string name="extravangza">Extravangza</string>
+    <string name="extravangza_ingredients">Domino\'s sosu, ekstra mozzarella, pepperoni, jambon, sosis, zeytin, mısır, yeşil biber, taze mantar, kekik</string>
+    <string name="small">Küçük</string>
+    <string name="medium">Orta</string>
+    <string name="big">Büyük</string>
+    <string name="quantity">Adet</string>
+    <string name="hot_amigo">Hot Amigo</string>
+    <string name="hotamigo_ingredients">Domino\'s sosu, mozzarella, küp sucuk, soğan, taze mantar, jalapenos biberi</string>
+    <string name="calculate">Hesapla</string>
+    <string name="fake_cost">Ödemeniz gereken ücret XXX TL</string>
+</resources>
